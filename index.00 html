@@ -12,23 +12,4 @@
 HINT for TODO 6: You can use the height attribute set to 200 to make the image smaller:
 https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img#attr-height -->
 
-<!-- TODO 7: Add the Contact Me and About Me page links --><a href="https://Google.com"></a>ANIMALIA</a>
-<!-- Kitten image URL --><h1>PET ANIMALS</h1>
-<hr />
-<ol>
-  
-    <li>Kitten</li>
-
-<img src="//raw.githubusercontent.com/appbrewery/webdev/main/kitten.jpeg" />
-<P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur, necessitatibus magni? Ratione quas aperiam quia totam aspernatur minima mollitia sunt corrupti adipisci, id qui possimus nobis incidunt excepturi rem optio?
-    
-
-<li>PUPPY</li>
-<!-- Puppy image URL -->
-<img src="//raw.githubusercontent.com/appbrewery/webdev/main/puppy.gif" />
-<p><br>Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias, ipsam illo libero perferendis explicabo voluptatibus quae, molestiae qui ratione culpa quod. Quae in similique sint quos, commodi incidunt illo debitis eos accusantium iure quis exercitationem cum nihil nobis ratione ab tempora est, tempore quod. Voluptates dignissimos eius nostrum doloribus tenetur.</p>
-<li>DOG</li>
-<img src="https://picsum.photos/id/237/200/400"alt=DOG />
-<p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Rerum reprehenderit pariatur earum temporibus ad laboriosam commodi eius tempora aliquid. Corrupti?</p>
-</ol>
-
+<!-- TODO 7: Add the Contact Me and About Me page links -->
